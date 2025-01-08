@@ -53,3 +53,5 @@ Feature Engineering: Creative feature engineering can significantly improve mode
 Interpretability: If possible, choose models that are relatively easy to interpret, especially in regulated industries like insurance.
 Explainability: Be able to explain how the model arrives at its predictions to customers and regulators.
 Ethical Considerations: Ensure that the model is fair and unbiased, and does not discriminate against any particular group of customers
+
+![Screenshot (4)](https://github.com/user-attachments/assets/c5b18cef-716a-4631-adde-39a9a6a29338)
